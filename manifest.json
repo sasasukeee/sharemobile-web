@@ -1,11 +1,11 @@
 {
-    "name": "sharemobile",
-    "short_name": "sharemobile",
+    "name": "Share",
+    "short_name": "Share",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0B0D12",
     "theme_color": "#0B0D12",
-    "description": "A new Flutter project.",
+    "description": "Cihazlar arasında güvenli dosya paylaşımı.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

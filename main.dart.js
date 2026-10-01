@@ -94606,7 +94606,7 @@ A.aAB.prototype={
 $1(a){return!0},
 $S:27}
 A.R0.prototype={
-K(a){return new A.Bt(B.Q3,"ShareMobile",A.w9(B.BA,B.am,B.DF,A.aHd(B.am,null,null,B.Ep,B.E6),B.Fn,B.HC,B.nt,!0),!1,null)}}
+K(a){return new A.Bt(B.Q3,"Share",A.w9(B.BA,B.am,B.DF,A.aHd(B.am,null,null,B.Ep,B.E6),B.Fn,B.HC,B.nt,!0),!1,null)}}
 A.pp.prototype={}
 A.S8.prototype={}
 A.DC.prototype={
@@ -94768,7 +94768,7 @@ q=n.r
 q=A.aE2(n.e,A.aIp(m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,"\u015eifre",!0,!0,!1,m,B.Hf,m,m,m,m,m,m,A.up(m,m,m,A.lg(q?B.GP:B.GO,m,m,m),m,m,new A.arI(n),m,m,m,m),m,m,m,m,m),1,m,q,new A.arJ(n),m)
 p=n.f?m:n.gas5()
 o=A.aTt(m,m,B.Rm,new A.cF(A.iJ(16),B.r),m)
-return A.D6(m,m,A.vv(!0,A.fM(A.aDT(new A.dC(B.C8,A.a3u(new A.bG(B.G9,A.kW(A.b([new A.ez(B.ji,m,m,j,m),B.A7,k,B.A9,s,B.Rr,r,B.A4,q,B.Rq,A.aD0(n.f?B.Rp:B.WS,p,o)],t.E),B.dk,B.au,B.bd),m),new A.cF(l,B.r)),m),B.hh),m,m),B.at,!0))}}
+return A.D6(m,m,A.vv(!0,A.fM(A.aDT(new A.dC(B.C8,A.a3u(new A.bG(B.G9,A.kW(A.b([new A.ez(B.ji,m,m,j,m),B.A7,k,B.A9,s,B.Rr,r,B.A4,q,B.Rq,A.aD0(n.f?B.Rp:B.WR,p,o)],t.E),B.dk,B.au,B.bd),m),new A.cF(l,B.r)),m),B.hh),m,m),B.at,!0))}}
 A.arK.prototype={
 $0(){return this.a.f=!0},
 $S:0}
@@ -95016,7 +95016,7 @@ l(){var s=this.d
 s.S$=$.as()
 s.J$=0
 this.aG()},
-K(a){var s,r,q,p,o,n=this,m=null,l=t.E,k=A.a2f(A.b([A.up(m,m,m,B.Hb,m,m,n.gaxv(),m,m,m,"Yenile"),A.up(m,m,m,B.Ha,m,m,n.a.d,m,m,m,"Bu cihazdan \xe7\u0131k"),B.A1],l),m,m,B.WN),j=A.W(a).ok.f
+K(a){var s,r,q,p,o,n=this,m=null,l=t.E,k=A.a2f(A.b([A.up(m,m,m,B.Hb,m,m,n.gaxv(),m,m,m,"Yenile"),A.up(m,m,m,B.Ha,m,m,n.a.d,m,m,m,"Bu cihazdan \xe7\u0131k"),B.A1],l),m,m,B.WU),j=A.W(a).ok.f
 j=A.cG("Cihazlar\u0131n aras\u0131nda payla\u015f",m,m,m,j==null?m:j.w8(B.dy),m,m)
 s=n.a.c
 r=A.W(a).ax
@@ -95045,7 +95045,7 @@ r=A.iJ(28)
 o=new A.bh(A.W(a).ax.b,3,B.v,-1)
 q=A.lg(B.GL,A.W(a).ax.b,m,64)
 p=A.W(a).ok.f
-j.push(A.aDF(0,A.k0(A.tX(m,A.kW(A.b([q,B.A5,A.cG("Dosyalar\u0131 buraya b\u0131rak",m,m,m,p==null?m:p.w8(B.dy),m,m),B.A8,B.WU],l),B.az,B.hP,B.bd),B.H,m,new A.f9(s,m,new A.e9(o,o,o,o),r,m,m,B.bJ),m,m,B.nS,m,m,m,m),!0,m)))}return A.D6(k,m,new A.zX(A.vU(B.db,j,B.V,B.e_),new A.ati(n),new A.atj(n),new A.atk(n),m))}}
+j.push(A.aDF(0,A.k0(A.tX(m,A.kW(A.b([q,B.A5,A.cG("Dosyalar\u0131 buraya b\u0131rak",m,m,m,p==null?m:p.w8(B.dy),m,m),B.A8,B.WT],l),B.az,B.hP,B.bd),B.H,m,new A.f9(s,m,new A.e9(o,o,o,o),r,m,m,B.bJ),m,m,B.nS,m,m,m,m),!0,m)))}return A.D6(k,m,new A.zX(A.vU(B.db,j,B.V,B.e_),new A.ati(n),new A.atj(n),new A.atk(n),m))}}
 A.ato.prototype={
 $0(){return this.a.f=!0},
 $S:0}
@@ -95075,7 +95075,7 @@ $1(a){return new A.uu(this.a.a,this.b,null)},
 $S:613}
 A.atn.prototype={
 $1(a){var s=null
-return new A.tn(B.WO,A.cG(A.aEa(this.a.a).a,s,s,s,s,s,s),A.b([A.aE1(B.WQ,new A.atl(a),s),A.aD0(B.AG,new A.atm(a),s)],t.E),s)},
+return new A.tn(B.WN,A.cG(A.aEa(this.a.a).a,s,s,s,s,s,s),A.b([A.aE1(B.WP,new A.atl(a),s),A.aD0(B.AG,new A.atm(a),s)],t.E),s)},
 $S:614}
 A.atl.prototype={
 $0(){A.h_(this.a,!1).xz(!1)
@@ -101609,8 +101609,8 @@ B.Jw=s([B.Cb],t.sq)
 B.Al=new A.E1(0,"left")
 B.Am=new A.E1(1,"right")
 B.Jy=s([B.Al,B.Am],A.aq("F<E1>"))
-B.WT=new A.fg("A\xe7 / indir",null,null,null,null,null,null,null,null)
-B.Oy=new A.vc("open",B.WT,null,t.wI)
+B.WS=new A.fg("A\xe7 / indir",null,null,null,null,null,null,null,null)
+B.Oy=new A.vc("open",B.WS,null,t.wI)
 B.AG=new A.fg("Sil",null,null,null,null,null,null,null,null)
 B.Ox=new A.vc("delete",B.AG,null,t.wI)
 B.Jz=s([B.Oy,B.Ox],A.aq("F<nE<l>>"))
@@ -102709,8 +102709,8 @@ B.NI=new A.OW(1,"end")
 B.vj=new A.OX(0,"nearestOverlay")
 B.NJ=new A.OX(1,"rootOverlay")
 B.iI=new A.w(!0,B.k,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.WR=new A.fg("G\xf6rsel a\xe7\u0131lamad\u0131.",null,B.iI,null,null,null,null,null,null)
-B.NK=new A.bG(B.hh,B.WR,null)
+B.WQ=new A.fg("G\xf6rsel a\xe7\u0131lamad\u0131.",null,B.iI,null,null,null,null,null,null)
+B.NK=new A.bG(B.hh,B.WQ,null)
 B.n3=new A.mM(B.a9,null,null,B.n7,null)
 B.NL=new A.bG(B.nT,B.n3,null)
 B.c3=new A.P3(0,"fill")
@@ -103079,8 +103079,8 @@ B.RC=new A.ko(3,"hide")
 B.a_Q=new A.ko(4,"remove")
 B.RD=new A.ko(5,"timeout")
 B.RE=new A.vQ(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.WP=new A.fg("Metin kopyaland\u0131.",null,null,null,null,null,null,null,null)
-B.RF=new A.rc(B.WP,null,null,null,null,null,null,null,null,null,null,null,null,B.jZ,!1,null,null,null,B.V,null)
+B.WO=new A.fg("Metin kopyaland\u0131.",null,null,null,null,null,null,null,null)
+B.RF=new A.rc(B.WO,null,null,null,null,null,null,null,null,null,null,null,null,B.jZ,!1,null,null,null,B.V,null)
 B.Af=new A.DS(0,"permissive")
 B.RG=new A.DS(1,"normal")
 B.RH=new A.DS(2,"forced")
@@ -103454,12 +103454,12 @@ B.Vl=new A.w(!0,B.R,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.VH=new A.w(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.h,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.SQ=new A.w(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.h,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.WM=new A.e_(B.UB,B.Ty,B.UC,B.V2,B.Te,B.Tm,B.TS,B.UY,B.U3,B.Vo,B.SJ,B.T0,B.Vl,B.VH,B.SQ)
+B.WN=new A.fg("Dosya silinsin mi?",null,null,null,null,null,null,null,null)
+B.WP=new A.fg("Vazge\xe7",null,null,null,null,null,null,null,null)
+B.WR=new A.fg("Ba\u011flan",null,null,null,null,null,null,null,null)
+B.WT=new A.fg("Birden fazla dosya b\u0131rakabilirsin.",null,null,null,null,null,null,null,null)
 B.VF=new A.w(!0,null,null,null,null,null,null,B.dy,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.WN=new A.fg("ShareMobile",null,B.VF,null,null,null,null,null,null)
-B.WO=new A.fg("Dosya silinsin mi?",null,null,null,null,null,null,null,null)
-B.WQ=new A.fg("Vazge\xe7",null,null,null,null,null,null,null,null)
-B.WS=new A.fg("Ba\u011flan",null,null,null,null,null,null,null,null)
-B.WU=new A.fg("Birden fazla dosya b\u0131rakabilirsin.",null,null,null,null,null,null,null,null)
+B.WU=new A.fg("Share",null,B.VF,null,null,null,null,null,null)
 B.WV=new A.fg("Tekrar dene",null,null,null,null,null,null,null,null)
 B.WW=new A.fg("Hen\xfcz payla\u015f\u0131m yok.",null,null,null,null,null,null,null,null)
 B.a_T=new A.anG(0,"system")
